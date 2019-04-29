@@ -19,6 +19,7 @@ export class QuoteComponent implements OnInit {
     new Quote(3,'If you don’t like something, change it. If you can’t change it, change your attitude.','~ Abraham Lincon',new Date(2019,10,14)), 
     new Quote(4,'The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.','~ Ralph Waldo Emerson',new Date(2019,10,14)), 
     new Quote(5,'Almost all of the research strongly supports the benefits of using humor to maximize living.','~ Ralph Waldo Emerson',new Date(2019,10,14)), 
+    new Quote(6,'Life is inherently risky. There is only one big risk you should avoid at all costs, and that is the risk of doing nothing.','~ Ralph Waldo Emerson',new Date(2019,10,14)), 
 
  ]
  toogleDetails(index){
