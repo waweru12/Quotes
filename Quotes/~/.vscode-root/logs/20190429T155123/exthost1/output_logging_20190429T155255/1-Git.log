@@ -93,3 +93,28 @@ Open repository: /home/austin
 > git ls-files --stage -- Quotes/src/app/quote/
 > git show :Quotes/src/app/quote/quote.component.css
 > git ls-files --stage -- Quotes/src/app/quote/
+> git show :Quotes/src/app/quote/quote.component.ts
+> git show :Quotes/src/app/quote/quote.component.css
+> git show :Quotes/src/app/quote/quote.component.ts
+> git show :Quotes/src/app/quote-details/quote-details.component.css
+> git show :Quotes/src/app/quote-details/quote-details.component.ts
+> git show :Quotes/src/app/quote-details/quote-details.component.html
+> git show :Quotes/src/app/quote-details/quote-details.component.spec.ts
+> git show :Quotes/src/app/quote-details/quote-details.component.css
+> git show :Quotes/src/app/quote-details/quote-details.component.html
+> git show :Quotes/src/app/quote-form/quote-form.component.html
+> git show :Quotes/src/app/quote/quote.component.ts
+> git show :Quotes/src/app/date-count.pipe.ts
+> git show :Quotes/src/app/app.component.ts
+> git show :Quotes/src/app/app.component.html
+> git show :Quotes/src/app/quote/quote.component.html
+> git show :Quotes/src/app/quote/quote.component.ts
+> git show :Quotes/src/app/quote-form/quote-form.component.html
+> git show :Quotes/src/app/quote/quote.component.ts
+> git show :Quotes/src/app/quote/quote.component.html
+> git show :Quotes/src/app/quote/quote.component.ts
+> git show :Quotes/src/app/quote.ts
+> git show :Quotes/src/app/quote/quote.component.ts
+> git show :Quotes/src/app/quote/quote.component.css
+> git show :Quotes/src/app/quote/quote.component.ts
+> git show :Quotes/src/app/quote/quote.component.css

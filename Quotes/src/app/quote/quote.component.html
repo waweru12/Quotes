@@ -9,7 +9,7 @@
         <h3>{{quote.name}}</h3>
         <button class="btn btn-danger" (click)='toogleDetails(i)'></button>
        
-        <div style="float: right" id="number">{{quote.completeDate|dateCount}}</div>
+        <div style="float: right" id="number">{{quote.completeDate|date}}</div>
         
         <h4>
           <app-quote-details *ngIf="quote.showDescription" [quote]='quote'></app-quote-details><br>
