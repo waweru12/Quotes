@@ -9,4 +9,21 @@
     text-decoration: none;
     font-size: large;
   }
- 
+  body {
+    background-image: url ("");
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    color:white;
+    text-decoration: none;
+    font-size: large;
+  }
+  h1{
+    font-size: 300%;
+    font-family: sans-serif;
+    color: chocolate;
+  }
+  
