@@ -126,3 +126,8 @@ Open repository: /home/austin
 > git show :Quotes/src/app/quote/quote.component.ts
 > git show :Quotes/src/app/quote/quote.component.css
 > git show :Quotes/README.md
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
