@@ -36,4 +36,12 @@
     font-size: 100%;
     color:black;
   }
- 
+  button{
+    width: 1%;
+    height: 10%;
+    font-size: 70%;
+  }
+
+  form{
+    margin: 0 auto;
+  }
