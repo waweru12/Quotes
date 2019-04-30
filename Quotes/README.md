@@ -39,4 +39,23 @@ Further help
 To get more help on the Angular CLI use ng help or go check out the
 Angular CLI README.
 
+#Installation
+
+'''Make sure you have all the Requirements or running angular apps
+installed such as node,npm, tsc and watchman'''
+'''Clone the project into your machine from '''
+'''Run ng serve for a dev server. Navigate to http://localhost:4200/.
+The app will automatically reload if you change any of the source
+files.'''
+  
+#User Requirements
+
+The applications allows users to do the following:
+
+Create a new quote.
+Upvote or downvote a quote.
+Delete a quote
+See the number of upvotes and number of downvotes for each quote.
+
+This project was generated with Angular CLI 
 
